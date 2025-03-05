@@ -1,0 +1,303 @@
+Summary for /storage/emulated/0/AliYunPan/pixellivegame-2.9.5.jar
+Decompiled with CFR 0.152
+
+
+aaaaaa.aaaaaa.aaaaaa.aaaaaa.aaaaac.aaaaad
+----------------------------
+
+你为什么要破解我的代码aaaaar()
+  Unable to fully structure code
+你为什么要破解我的代码aaaaaw()
+  Unable to fully structure code
+你为什么要破解我的代码aaaaby()
+  Unable to fully structure code
+
+
+aaaaaa.aaaaaa.aaaaaa.aaaaaa.aaaaac.aaaaao
+----------------------------
+
+你为什么要破解我的代码aaaadR(java.lang.String )
+  WARNING - bad return control flow
+
+
+aaaaaa.aaaaaa.aaaaaa.aaaaaa.aaaaac.aaaaaP
+----------------------------
+
+你为什么要破解我的代码aaaaaR(java.lang.String int java.lang.String java.lang.String )
+  Unable to fully structure code
+你为什么要破解我的代码aaaaaP(java.lang.String int int java.lang.String )
+  Unable to fully structure code
+你为什么要破解我的代码aaaaeL()
+  Unable to fully structure code
+你为什么要破解我的代码aaaacW()
+  Unable to fully structure code
+
+
+aaaaaa.aaaaaa.aaaaaa.aaaaaa.aaaaac.aaaabr
+----------------------------
+
+你为什么要破解我的代码aaaadR(java.lang.String )
+  WARNING - bad return control flow
+
+
+aaaaaa.aaaaaa.aaaaaa.aaaaaa.aaaaac.aaaabH
+----------------------------
+
+你为什么要破解我的代码aaaadR(java.lang.String )
+  WARNING - bad return control flow
+
+
+aaaaaa.aaaaaa.aaaaaa.aaaaaa.aaaaac.aaaabM
+----------------------------
+
+你为什么要破解我的代码aaaakH(int int )
+  Unable to fully structure code
+你为什么要破解我的代码aaaaal(net.minecraft.server.MinecraftServer )
+  Unable to fully structure code
+  Could not resolve type clashes
+你为什么要破解我的代码aaaaaO(cn.pixellive.mc.game.event.live.LiveGiftEvent )
+  Unable to fully structure code
+  Could not resolve type clashes
+你为什么要破解我的代码aaaaaP(java.lang.String int int java.lang.String )
+  Unable to fully structure code
+你为什么要破解我的代码aaaalu(kotlin.coroutines.Continuation<? super kotlin.Unit> )
+  Unable to fully structure code
+你为什么要破解我的代码aaaalv(net.minecraft.class_3222 int kotlin.coroutines.Continuation<? super kotlin.Unit> )
+  Unable to fully structure code
+你为什么要破解我的代码aaaalA(net.minecraft.class_3222 net.minecraft.class_243 net.minecraft.class_243 double kotlin.coroutines.Continuation<? super kotlin.Unit> )
+  Unable to fully structure code
+
+
+aaaaaa.aaaaaa.aaaaaa.aaaaaa.aaaaac.aaaacs
+----------------------------
+
+你为什么要破解我的代码aaaadR(java.lang.String )
+  WARNING - bad return control flow
+
+
+aaaaaa.aaaaaa.aaaaaa.aaaaaa.aaaaac.aaaadf
+----------------------------
+
+你为什么要破解我的代码aaaape(aaaaaa.aaaaaa.aaaaaa.aaaaaa.aaaaac.aaaadf java.lang.String int java.lang.String )
+  Unable to fully structure code
+
+
+cn.pixellive.mc.game.client.PixelLiveGameClientMod
+----------------------------
+
+你为什么要破解我的代码aaaaah()
+  Unable to fully structure code
+你为什么要破解我的代码aaaaay(cn.pixellive.mc.game.client.PixelLiveGameClientMod aaaaaa.aaaaaa.aaaaaa.aaaaaa.aaaaab.aaaaaa.aaaaah net.fabricmc.fabric.api.client.networking.v1.ClientPlayNetworking$Context )
+  Unable to fully structure code
+
+
+cn.pixellive.mc.game.PixelLiveGameMod
+----------------------------
+
+你为什么要破解我的代码aaaaaz(cn.pixellive.mc.game.PixelLiveGameMod net.minecraft.class_3244 net.fabricmc.fabric.api.networking.v1.PacketSender net.minecraft.server.MinecraftServer )
+  Unable to fully structure code
+你为什么要破解我的代码aaaaaF(net.minecraft.class_1309 net.minecraft.class_1282 float )
+  WARNING - bad return control flow
+你为什么要破解我的代码aaaaaJ(net.minecraft.class_1309 net.minecraft.class_1282 float )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+cn.pixellive.mc.game.server.PixelLiveGameServerMod
+----------------------------
+
+你为什么要破解我的代码aaaaab(java.lang.String )
+  WARNING - bad return control flow
+
+
+cn.pixellive.mc.game.mixin.stage.PlayerDamageMixin
+----------------------------
+
+modifyDamage(float )
+  Exception : org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.SwitchStringRewriter$TooOptimisticMatchException
+
+
+org.openjdk.nashorn.internal.codegen.MethodEmitter
+----------------------------
+
+invalidateSpecialName(java.lang.String )
+  Exception : org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.SwitchStringRewriter$TooOptimisticMatchException
+fieldType(java.lang.String )
+  Exception : org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.SwitchStringRewriter$TooOptimisticMatchException
+
+
+org.apache.commons.text.lookup.JavaPlatformStringLookup
+----------------------------
+
+lookup(java.lang.String )
+  Exception : org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.SwitchStringRewriter$TooOptimisticMatchException
+
+
+org.apache.commons.text.lookup.LocalHostStringLookup
+----------------------------
+
+lookup(java.lang.String )
+  Exception : org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.SwitchStringRewriter$TooOptimisticMatchException
+
+
+org.java_websocket.server.WebSocketServer
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [6[CATCHBLOCK]], but top level block is 2[TRYBLOCK]
+
+
+okhttp3.internal.connection.ExchangeFinder
+----------------------------
+
+findConnection(int int int int boolean )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+org.openjdk.nashorn.internal.ir.FunctionNode
+----------------------------
+
+getDirectiveFlag(java.lang.String )
+  Exception : org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.SwitchStringRewriter$TooOptimisticMatchException
+
+
+okhttp3.internal.Util
+----------------------------
+
+isCivilized(okhttp3.internal.io.FileSystem java.io.File )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+cn.hutool.core.io.file.FileReader
+----------------------------
+
+writeToStream(java.io.OutputStream boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+org.apache.commons.lang3.JavaVersion
+----------------------------
+
+get(java.lang.String )
+  Exception : org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.SwitchStringRewriter$TooOptimisticMatchException
+
+
+org.apache.commons.lang3.CharSequenceUtils
+----------------------------
+
+lastIndexOf(java.lang.CharSequence java.lang.CharSequence int )
+  Unable to fully structure code
+
+
+okhttp3.internal.http.RetryAndFollowUpInterceptor
+----------------------------
+
+intercept(okhttp3.Interceptor$Chain )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+okio.internal.-FileSystem
+----------------------------
+
+commonCopy(okio.FileSystem okio.Path okio.Path )
+  Loose catch block
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+collectRecursively(kotlin.sequences.SequenceScope<? super okio.Path> okio.FileSystem kotlin.collections.ArrayDeque<okio.Path> okio.Path boolean boolean kotlin.coroutines.Continuation<? super kotlin.Unit> )
+  Unable to fully structure code
+
+
+okhttp3.Cookie
+----------------------------
+
+dateCharacterOffset(java.lang.String int int boolean )
+  Unable to fully structure code
+
+
+okio.Okio__OkioKt
+----------------------------
+
+use(T kotlin.jvm.functions.Function1<? super T, ? extends R> )
+  Loose catch block
+
+
+okio.ZipFileSystem
+----------------------------
+
+metadataOrNull(okio.Path )
+  Loose catch block
+source(okio.Path )
+  Loose catch block
+
+
+okhttp3.Headers
+----------------------------
+
+checkValue(java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+cn.hutool.core.util.ArrayUtil
+----------------------------
+
+wrap(java.lang.Object )
+  Exception : org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.SwitchStringRewriter$TooOptimisticMatchException
+
+
+org.apache.commons.text.ExtendedMessageFormat
+----------------------------
+
+readArgumentIndex(java.lang.String java.text.ParsePosition )
+  Unable to fully structure code
+
+
+org.apache.commons.io.file.PathUtils
+----------------------------
+
+fileContentEquals(java.nio.file.Path java.nio.file.Path java.nio.file.LinkOption[] java.nio.file.OpenOption[] )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+com.fasterxml.jackson.core.io.UTF8Writer
+----------------------------
+
+write(char[] int int )
+  Unable to fully structure code
+write(java.lang.String int int )
+  Unable to fully structure code
+
+
+okhttp3.TlsVersion
+----------------------------
+
+forJavaName(java.lang.String )
+  Exception : org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.SwitchStringRewriter$TooOptimisticMatchException
+
+
+org.apache.commons.io.IOUtils
+----------------------------
+
+toByteArray(java.io.InputStream )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+org.openjdk.nashorn.internal.runtime.NashornLoader
+----------------------------
+
+checkPackageAccess(java.lang.String )
+  Exception : org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.SwitchStringRewriter$TooOptimisticMatchException
+
+
+org.openjdk.nashorn.api.scripting.NashornScriptEngineFactory
+----------------------------
+
+getParameter(java.lang.String )
+  Exception : org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.SwitchStringRewriter$TooOptimisticMatchException
+
+
+cn.hutool.crypto.ASN1Util
+----------------------------
+
+encodeTo(java.lang.String java.io.OutputStream org.bouncycastle.asn1.ASN1Encodable[] )
+  Exception : org.benf.cfr.reader.bytecode.analysis.opgraph.op4rewriters.SwitchStringRewriter$TooOptimisticMatchException
